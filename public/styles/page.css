@@ -1,0 +1,51 @@
+.navbar-default{
+	background-color: #1E90FF;
+	border-color: black;
+	color: white;	
+}
+
+a{
+	color: white;
+	font-size: 30px;
+	padding-right: 35px;
+	margin: auto;
+}
+
+li{
+	display: inline;
+}
+
+#buttonText{
+	font-size: 20px;
+}
+
+body {
+    background-image: url("../images/newspaper.jpg");
+    background-size: cover;
+}
+
+#article-container{
+	margin: auto;
+	width: 50%;
+}
+
+#no-articles{
+	background-color: orange;
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-style: solid;
+	border-width: 5px 
+}
+
+#article{
+
+	background-color: white;
+	text-align: center;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-style: solid;
+	border-width: 5px
+	margin-top: 15px;
+	margin-bottom: 15px
+}
